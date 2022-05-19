@@ -6,3 +6,5 @@ This is a test of GitHub
 *Example*  
 qwer **qwer**   
 qwert 😂
+
+**NEW TEXT**
